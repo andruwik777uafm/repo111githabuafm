@@ -1,2 +1,3 @@
 file3.txt from 777 init
 777 row2
+777 row3
